@@ -7,7 +7,7 @@ This project uses Unity's Nav Mesh library to create responsive AI's that react 
 Static and Dynamic Obstacles are used to create permanent and ever changing surroundings allowing for the AI to change its path based on its current position in the world
 
 ## Gameplay
-![Rollaball-Game](Screenshots/RolllaBall Gameplay.gif)
+![Rollaball-Game](Screenshots/RolllaBall-Gameplay.gif)
 
 
 
